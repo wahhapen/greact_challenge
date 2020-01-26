@@ -1,0 +1,19 @@
+.RepoList ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.RepoCard {
+  margin: 12px;
+  max-width: 400px;
+  border-color: grey;
+  text-align: left;
+}
+.RepoCard:hover {
+  border-color: orange;
+}
+
+.FetchMoreButton {
+  height: 32px;
+  line-height: 32px;
+  text-align: center;
+}

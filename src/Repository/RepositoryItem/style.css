@@ -1,0 +1,10 @@
+.RepositoryItem {
+  margin: 10px;
+}
+
+.RepositoryItem-description-info {
+  margin: 16px auto;
+  font-size: 16px;
+  text-align: left;
+  max-width: 600px;
+}
